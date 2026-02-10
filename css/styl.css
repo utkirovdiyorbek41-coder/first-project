@@ -1,0 +1,23 @@
+.header-nav {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+    gap: 50px;
+
+}
+
+.header-btn {
+    border: none;
+    padding: 15px 34px;
+    background: transparent;
+    border-radius: 15px 50px 15px 50px;
+    border-radius: 15px 50px 15px 50px;
+    background: rgb(252, 47, 47);
+}

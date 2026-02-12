@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Education"
+	},
+	{
+		"path": "../bootstrap responsive"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "FURNITURE site"
+  }
+}

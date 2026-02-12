@@ -1,0 +1,327 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Montserrat";
+  list-style: none;
+  text-decoration: none;
+}
+
+header {
+  margin-top: 50px;
+  justify-content: space-between;
+}
+
+.header-ul {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+
+.header-leaut {
+  display: flex;
+  gap: 350px;
+}
+
+.main-text {
+  color: rgb(51, 51, 51);
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.header-li {
+  color: rgb(51, 51, 51);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.main-img {
+  max-width: 474px;
+  margin-top: 10px;
+}
+
+.main {
+  margin-top: 155px;
+}
+
+.main-new {
+  color: rgb(5, 76, 115);
+  font-size: 52px;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.main-btn {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 50px;
+  background: rgb(5, 76, 115);
+  padding: 25px 72px 25px 72px;
+  border: none;
+  margin-top: 30px;
+}
+
+.main-right {
+  padding: 40px 40px;
+  border-radius: 10px;
+  background: rgb(223, 233, 244);
+}
+
+.support-box {
+  display: flex;
+  align-items: center;
+  margin-top: 120px;
+  gap: 20px;
+  margin-bottom: 60px;
+}
+
+.support-img {
+  margin-top: -20px;
+}
+
+.inspiration {
+  margin-bottom: 72px;
+}
+
+.beauty {
+  background: rgb(242, 245, 255);
+  height: 861px;
+  margin-bottom: 61px;
+}
+
+.beauty-title {
+  color: rgb(51, 51, 51);
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.beauty-text {
+  color: rgb(102, 102, 102);
+  font-size: 20px;
+  font-weight: 400;
+  width: 514px;
+}
+
+.beauty-img {
+  margin-top: 48px;
+}
+
+.beauty-box {
+  margin: auto;
+}
+
+.beauty-btn {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 50px;
+  background: rgb(5, 76, 115);
+  padding: 24px 72px 24px 72px;
+  border: none;
+  margin-top: 30px;
+}
+
+.inspiration-title {
+  text-align: center;
+  color: rgb(51, 51, 51);
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.inspiration-text {
+  text-align: center;
+  color: rgb(102, 102, 102);
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 62px;
+}
+
+.support {
+  background: rgb(242, 245, 255);
+  height: 300px;
+  margin: auto;
+  margin-top: 150px;
+  margin-bottom: 60px;
+}
+
+.browse-img {
+  margin: auto;
+}
+
+.browse-title,
+.browse-text,
+.browse-subtitle,
+.works-text,
+.works-title,
+.card-title,
+.card-text {
+  text-align: center;
+  margin: auto;
+}
+
+.browse-subtitle {
+  color: rgb(51, 51, 51);
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 30px;
+}
+
+.card {
+  border: none;
+}
+
+.support-title {
+  color: rgb(51, 51, 51);
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.support-text {
+  color: rgb(51, 51, 51);
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.browse-title {
+  color: rgb(51, 51, 51);
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.browse-text {
+  color: rgb(102, 102, 102);
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 36px;
+}
+
+.works-title {
+  color: rgb(51, 51, 51);
+  font-size: 32px;
+  font-weight: 700;
+  margin-top: 121px;
+}
+
+.works-text {
+  margin-top: 20px;
+  color: rgb(102, 102, 102);
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 50px;
+}
+
+.card-title {
+  margin-top: 30px;
+  color: rgb(51, 51, 51);
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.card-text {
+  color: rgb(102, 102, 102);
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 10px;
+}
+
+.List {
+  margin-top: 197px;
+  text-align: center;
+  background: rgb(242, 245, 255);
+  padding: 20px 0;
+  margin: auto;
+  justify-content: center;
+  margin-top: 197px;
+}
+
+.list-title {
+  color: rgb(51, 51, 51);
+  font-size: 32px;
+  font-weight: 700;
+  padding-top: 60px;
+}
+
+.list-text {
+  color: rgb(102, 102, 102);
+  font-size: 20px;
+  font-weight: 400;
+  width: 514px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+input {
+  padding: 17px 100px 16px 10px;
+  margin-bottom: 20px;
+  border: 2px solid rgb(124, 162, 233);
+}
+
+.list-box {
+  display: flex;
+  justify-content: center;
+}
+
+.list-btn {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 700;
+  border: 1px solid rgb(1, 28, 66);
+  border-radius: 3px;
+  background: rgb(5, 76, 115);
+  padding: 26px 10px;
+  max-width: 153px;
+}
+
+.list-btn {
+  padding: 18px 45px;
+}
+
+.follow-right {
+  display: flex;
+  gap: 20px;
+}
+
+.follow-title {
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.main-btn {
+  transition: 0.5s ease-in-out;
+}
+
+.main-btn:hover {
+  background: #5fb832;
+  box-shadow: 10px 10px 20px #ffffff;
+}
+
+.follow-text {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 400;
+  width: 400px;
+}
+
+.follow-sutitle {
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.follow {
+  background: rgb(3, 52, 79);
+  padding: 49px;
+}
+
+.right-title {
+  margin-bottom: 23px;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-weight: 700;
+}
